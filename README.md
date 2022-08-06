@@ -3,4 +3,4 @@ This project aims to find the underlying buying patterns of the customers of an 
 
 The project also involves conducting a thorough analysis of Point of Sale (POS) Data for providing recommendations through which a grocery store can increase its revenue by coming up with attractive combo & discount offers for customers.
 
-Link t Tableau storyboard: https://public.tableau.com/app/profile/sinduja.r.s/viz/MRA-Exploratory/Menuanalysis?publish=yes
+Link to Tableau storyboard: https://public.tableau.com/app/profile/sinduja.r.s/viz/MRA-Exploratory/Menuanalysis?publish=yes
